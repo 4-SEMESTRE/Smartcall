@@ -109,6 +109,9 @@
 - Implementar um sistema de notificações para alertar os usuários sobre mudanças nos chamados.
 - Criar um processo de onboarding simples e direto para novos usuários, com tutoriais e dicas interativas.
 
+
+🔗 [Repositório SmartCall](https://github.com/4-SEMESTRE/Smartcall)  
+
 *Critérios de Aceitação:*
 - A interface deve ser responsiva, funcionando adequadamente tanto em desktop quanto em dispositivos móveis.
 - O sistema deve enviar notificações claras e precisas sobre atualizações de chamados.
