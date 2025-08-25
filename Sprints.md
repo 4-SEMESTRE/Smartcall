@@ -78,3 +78,6 @@
 | *Cauã Carvalho* | Product Owner |
 | *Junior Onorato* | Scrum Master |
 | *Caique Silva* | Desenvolvedor |
+
+
+🔗 [Repositório SmartCall](https://github.com/4-SEMESTRE/Smartcall)  
