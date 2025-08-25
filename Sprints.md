@@ -14,10 +14,10 @@
 ## Sprint 1 – Organização dos READMEs (4 horas)
 | Item | Tarefa Técnica | Responsável | Tempo Estimado | Status | Prioridade |
 |------|----------------|-------------|----------------|--------|------------|
-| README InfinityWare | Criar e revisar | Cauã Carvalho | 1h | Pendente | 🔴 Alta |
-| README PagBus | README detalhado | Caique Silva | 1h | Pendente | 🔴 Alta |
-| README SmartCall | Backlog e Sprints| Junior Onorato | 1h | Pendente | 🔴 Alta |
-| Padronização | Garantir padrão entre tudo| Equipe | 1h | Pendente | 🟡 Média |
+| README InfinityWare | Criar e revisar | Cauã Carvalho | 1h | Feito | 🔴 Alta |
+| README PagBus | README detalhado | Caique Silva | 1h | Feito | 🔴 Alta |
+| README SmartCall | Backlog e Sprints| Junior Onorato | 1h | Feito | 🔴 Alta |
+| Padronização | Garantir padrão entre tudo| Equipe | 1h | Feito | 🟡 Média |
 
 ---
 
