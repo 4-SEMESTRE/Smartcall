@@ -115,4 +115,5 @@
 - O sistema deve enviar notificações claras e precisas sobre atualizações de chamados.
 - O onboarding para novos usuários deve ser rápido e eficaz, permitindo uma adaptação fácil ao sistema.
 
+🔗 [Repositório InfinityWare](https://github.com/4-SEMESTRE)  
 🔗 [Repositório SmartCall](https://github.com/4-SEMESTRE/Smartcall)  
