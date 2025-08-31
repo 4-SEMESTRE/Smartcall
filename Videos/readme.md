@@ -6,7 +6,10 @@ Esta pasta reúne os vídeos publicados no YouTube com explicações sobre as **
 
 ## 🔗 Links Diretos do YouTube
 
-![Sprint 1 e 2]([(https://youtube.com/shorts/qOPkqpjbVyI?si=VLaM5TpexHg8Sxhz)])  
+- `Video Sprint 1 e 2`
+```
+https://youtube.com/shorts/qOPkqpjbVyI?si=VLaM5TpexHg8Sxhz
+```
 
 ---
 
