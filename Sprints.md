@@ -24,10 +24,10 @@
 ## Sprint 2 – Vídeo + Casos de Uso (4 horas)
 | Item | Tarefa Técnica | Responsável | Tempo Estimado | Status | Prioridade |
 |------|----------------|-------------|----------------|--------|------------|
-| Roteiro do vídeo | Escrever roteiro da explicação | Junior Onorato | 30min | Pendente | 🟡 Média |
-| Gravação do vídeo | Gravar vídeo explicando implementações | Cauã Carvalho | 1h | Pendente | 🔴 Alta |
-| Atores | Identificar todos os atores do sistema | Caique Silva | 1h | Pendente | 🔴 Alta |
-| Casos de Uso | Criar e revisar diagrama | Equipe | 1h30min | Pendente | 🔴 Alta |
+| Roteiro do vídeo | Escrever roteiro da explicação | Junior Onorato | 30min | Feito | 🟡 Média |
+| Gravação do vídeo | Gravar vídeo explicando implementações | Cauã Carvalho | 1h | Feito | 🔴 Alta |
+| Atores | Identificar todos os atores do sistema | Caique Silva | 1h | Feito | 🔴 Alta |
+| Casos de Uso | Criar e revisar diagrama | Equipe | 1h30min | Feito | 🔴 Alta |
 
 ---
 
