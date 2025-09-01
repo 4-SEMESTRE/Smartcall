@@ -67,6 +67,7 @@ O **SmartCall** é um sistema de **gestão de chamados técnicos** desenvolvido 
 -  [Backlog do Produto](https://github.com/4-SEMESTRE/Smartcall/blob/main/Backlog.md)
 -  [Sprints](https://github.com/4-SEMESTRE/Smartcall/blob/main/Sprints.md)
 -  [Diagramas UML (caso de uso, classe, sequência, implantação)](https://github.com/4-SEMESTRE/Smartcall/tree/main/Diagramas)
+-  [Videos](https://github.com/4-SEMESTRE/Smartcall/tree/main/Videos)
 
 ---
 
@@ -84,7 +85,7 @@ O **SmartCall** é um sistema de **gestão de chamados técnicos** desenvolvido 
 
 | Equipe      | Função |
 |-----------------------|-------------------|
-| **Cauã Carvalho** | Product Owner |
+| [**Cauã Carvalho**](https://github.com/Arcano06) | Product Owner |
 | **Junior Onorato** | Scrum Master |
 | **Caique Silva** | Desenvolvedor  |
 
