@@ -25,3 +25,8 @@ https://youtube.com/shorts/qOPkqpjbVyI?si=VLaM5TpexHg8Sxhz
 
 - Todos os vídeos são de caráter **explicativo e acadêmico**.  
 - O conteúdo pode ser referenciado em relatórios, apresentações e documentações técnicas.  
+
+---
+
+🔗 [Repositório InfinityWare](https://github.com/4-SEMESTRE)  
+🔗 [Repositório SmartCall](https://github.com/4-SEMESTRE/Smartcall)
