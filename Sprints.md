@@ -14,20 +14,20 @@
 ## Sprint 1 – Organização dos READMEs (4 horas)
 | Item | Tarefa Técnica | Responsável | Tempo Estimado | Status | Prioridade |
 |------|----------------|-------------|----------------|--------|------------|
-| README InfinityWare | Criar e revisar | Cauã Carvalho | 1h | Pendente | 🔴 Alta |
-| README PagBus | README detalhado | Caique Silva | 1h | Pendente | 🔴 Alta |
-| README SmartCall | Backlog e Sprints| Junior Onorato | 1h | Pendente | 🔴 Alta |
-| Padronização | Garantir padrão entre tudo| Equipe | 1h | Pendente | 🟡 Média |
+| README InfinityWare | Criar e revisar | Cauã Carvalho | 1h | Feito | 🔴 Alta |
+| README PagBus | README detalhado | Caique Silva | 1h | Feito | 🔴 Alta |
+| README SmartCall | Backlog e Sprints| Junior Onorato | 1h | Feito | 🔴 Alta |
+| Padronização | Garantir padrão entre tudo| Equipe | 1h | Feito | 🟡 Média |
 
 ---
 
 ## Sprint 2 – Vídeo + Casos de Uso (4 horas)
 | Item | Tarefa Técnica | Responsável | Tempo Estimado | Status | Prioridade |
 |------|----------------|-------------|----------------|--------|------------|
-| Roteiro do vídeo | Escrever roteiro da explicação | Junior Onorato | 30min | Pendente | 🟡 Média |
-| Gravação do vídeo | Gravar vídeo explicando implementações | Cauã Carvalho | 1h | Pendente | 🔴 Alta |
-| Atores | Identificar todos os atores do sistema | Caique Silva | 1h | Pendente | 🔴 Alta |
-| Casos de Uso | Criar e revisar diagrama | Equipe | 1h30min | Pendente | 🔴 Alta |
+| Roteiro do vídeo | Escrever roteiro da explicação | Junior Onorato | 30min | Feito | 🟡 Média |
+| Gravação do vídeo | Gravar vídeo explicando implementações | Cauã Carvalho | 1h | Feito | 🔴 Alta |
+| Atores | Identificar todos os atores do sistema | Caique Silva | 1h | Feito | 🔴 Alta |
+| Casos de Uso | Criar e revisar diagrama | Equipe | 1h30min | Feito | 🔴 Alta |
 
 ---
 
@@ -78,3 +78,7 @@
 | *Cauã Carvalho* | Product Owner |
 | *Junior Onorato* | Scrum Master |
 | *Caique Silva* | Desenvolvedor |
+
+
+🔗 [Repositório InfinityWare](https://github.com/4-SEMESTRE)  
+🔗 [Repositório SmartCall](https://github.com/4-SEMESTRE/Smartcall)  

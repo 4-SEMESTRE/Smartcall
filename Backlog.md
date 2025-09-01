@@ -109,7 +109,11 @@
 - Implementar um sistema de notificações para alertar os usuários sobre mudanças nos chamados.
 - Criar um processo de onboarding simples e direto para novos usuários, com tutoriais e dicas interativas.
 
+
 *Critérios de Aceitação:*
 - A interface deve ser responsiva, funcionando adequadamente tanto em desktop quanto em dispositivos móveis.
 - O sistema deve enviar notificações claras e precisas sobre atualizações de chamados.
 - O onboarding para novos usuários deve ser rápido e eficaz, permitindo uma adaptação fácil ao sistema.
+
+🔗 [Repositório InfinityWare](https://github.com/4-SEMESTRE)  
+🔗 [Repositório SmartCall](https://github.com/4-SEMESTRE/Smartcall)  
