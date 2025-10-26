@@ -1,19 +1,3 @@
-# *SmartCall – Gestão Inteligente de Chamados Técnicos*
----
-## 📑 Índice de Navegação
-- [Sobre o SmartCall](#-sobre-o-smartcall)
-- [O que nos diferencia](#-o-que-nos-diferencia)
-- [Funcionalidades](#-funcionalidades)
-- [Arquitetura e Tecnologias](#-arquitetura-e-tecnologias)
-- [Documentação](#-documentação)
-- [Segurança, LGPD e Confiabilidade](#-segurança-lgpd-e-confiabilidade)
-- [Equipe](#-equipe)
-- [Repositório](#-repositório)
-- [Contato](#-contato)
-- [Licença](#-licença)
-
----
-
 # 📌 Sobre o SmartCall
 
 O **SmartCall** é um sistema de **gestão de chamados técnicos** desenvolvido pela **InfinityWare** para otimizar o atendimento em empresas de tecnologia, mobilidade urbana e demais setores que demandam suporte contínuo. Com **triagem automática por IA**, o SmartCall entrega **agilidade**, **organização** e **precisão** no tratamento de incidentes, reduzindo filas e elevando a satisfação dos usuários.
