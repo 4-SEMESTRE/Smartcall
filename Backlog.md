@@ -1,119 +1,25 @@
-# Backlog do Sistema de Gestão de Chamados
+## 📋 Backlog do Produto - Sistema de Gestão de Chamados <a id="backlog"></a>
 
-# Requisitos funcionais
-
-### 1.1 Gerenciamento de Chamados (Alta Prioridade)
-*Descrição:*
-- Permitir a criação, visualização, atualização e encerramento de chamados de suporte técnico.
-- Viabilizar a associação de chamados a funcionários e técnicos responsáveis.
-- Habilitar o anexo de arquivos (prints, logs, documentos) para facilitar a resolução de problemas.
-
-*Tarefas:*
-- Desenvolver funcionalidades para criação, visualização e fechamento de chamados.
-- Implementar um sistema de atribuição automática ou manual de técnicos e funcionários responsáveis.
-- Permitir o upload de arquivos (prints, logs, documentos) nos chamados.
-- Garantir uma interface de fácil navegação para técnicos e administradores visualizarem chamados pendentes e concluídos.
-
-*Critérios de Aceitação:*
-- O sistema deve permitir a criação de chamados com todos os dados necessários.
-- Anexos podem ser adicionados sem restrições de formato.
-- O fechamento de chamados deve permitir feedback do usuário.
-
-### 1.2 Triagem Inteligente (Alta Prioridade)
-*Descrição:*
-- Implementar um sistema de inteligência artificial para categorização automática de chamados.
-- Sugerir soluções automatizadas com base no histórico de chamados.
-- Encaminhar chamados ao técnico mais qualificado para a resolução.
-
-*Tarefas:*
-- Desenvolver um modelo de IA para classificar chamados automaticamente.
-- Criar um banco de conhecimento para sugerir soluções com base em chamados anteriores.
-- Integrar um sistema de roteamento para encaminhar chamados ao técnico mais adequado.
-
-*Critérios de Aceitação:*
-- A IA deve classificar chamados corretamente com base em padrões históricos.
-- O sistema deve sugerir pelo menos uma solução relevante para chamados comuns.
-- Chamados devem ser encaminhados para técnicos com base na sua especialização.
-
-### 1.3 Controle de Acessos e Permissões (Média Prioridade)
-*Descrição:*
-- Definir diferentes níveis de permissão para usuários (funcionário, técnico e administrador).
-- Registrar logs detalhados das ações realizadas no sistema para auditoria e segurança.
-
-*Tarefas:*
-- Criar um sistema de gerenciamento de permissões baseado em papéis de usuário.
-- Implementar um log detalhado de todas as ações realizadas no sistema.
-- Garantir que administradores possam gerenciar acessos de outros usuários.
-
-*Critérios de Aceitação:*
-- Apenas usuários com permissões adequadas devem poder realizar ações restritas.
-- Todas as ações críticas devem ser registradas no log de auditoria.
-- O administrador deve conseguir alterar permissões de outros usuários conforme necessário.
-
-### 1.4 Histórico de Chamados (Média Prioridade)
-*Descrição:*
-- Armazenar registros completos de todos os chamados gerados no sistema.
-- Permitir busca avançada e filtragem por status, categoria e técnico responsável.
-- Gerar relatórios analíticos sobre o desempenho da equipe de suporte.
-
-*Tarefas:*
-- Desenvolver um banco de dados otimizado para armazenar históricos de chamados.
-- Criar funcionalidades de busca e filtragem avançadas para facilitar a consulta de chamados.
-- Implementar um sistema de geração de relatórios sobre métricas de atendimento.
-
-*Critérios de Aceitação:*
-- O sistema deve armazenar chamados de forma íntegra e acessível para consulta futura.
-- Os usuários devem poder filtrar chamados por critérios como status, categoria e técnico.
-- Relatórios devem apresentar informações relevantes sobre o desempenho do suporte.
-#
-## 2. Requisitos Não Funcionais
-
-### 2.1 Segurança (Alta Prioridade)
-*Descrição:*
-- Implementar autenticação segura para acesso ao sistema.
-- Garantir que apenas usuários autorizados possam visualizar e editar chamados.
-- Criptografar dados sensíveis armazenados no banco de dados.
-
-*Tarefas:*
-- Implementar mecanismos de autenticação, como login e senhas fortes.
-- Controlar permissões de acesso para usuários, garantindo visibilidade e edição de chamados conforme o nível de autorização.
-- Aplicar criptografia de ponta a ponta nos dados sensíveis no banco de dados, como informações pessoais e relatórios de suporte.
-
-*Critérios de Aceitação:*
-- O sistema deve autenticar corretamente usuários, negando acesso não autorizado.
-- Apenas usuários com permissões apropriadas devem conseguir visualizar e editar os chamados.
-- Dados sensíveis devem ser criptografados de maneira segura.
-
-### 2.2 Tempo de Resposta (Alta Prioridade)
-*Descrição:*
-- O sistema deve processar chamados e exibir respostas da IA em menos de 2 segundos.
-- Evitar travamentos em picos de uso, garantindo alta disponibilidade.
-
-*Tarefas:*
-- Otimizar a arquitetura do sistema para processamento rápido de dados.
-- Implementar escalabilidade automática para lidar com picos de tráfego.
-- Realizar testes de desempenho para garantir que o tempo de resposta seja inferior a 2 segundos.
-
-*Critérios de Aceitação:*
-- O tempo de resposta do sistema para processar chamados e exibir respostas da IA deve ser sempre inferior a 2 segundos.
-- O sistema deve manter alta disponibilidade, sem travamentos, mesmo durante picos de uso.
-
-### 2.3 Usabilidade (Média Prioridade)
-*Descrição:*
-- Interface intuitiva e responsiva para facilitar o uso em desktop e mobile.
-- Notificações para atualizações de chamados (exemplo: e-mail ou pop-up no sistema).
-- Treinamento rápido para novos usuários (onboarding simplificado).
-
-*Tarefas:*
-- Desenvolver uma interface gráfica que seja fácil de navegar em diferentes dispositivos.
-- Implementar um sistema de notificações para alertar os usuários sobre mudanças nos chamados.
-- Criar um processo de onboarding simples e direto para novos usuários, com tutoriais e dicas interativas.
-
-
-*Critérios de Aceitação:*
-- A interface deve ser responsiva, funcionando adequadamente tanto em desktop quanto em dispositivos móveis.
-- O sistema deve enviar notificações claras e precisas sobre atualizações de chamados.
-- O onboarding para novos usuários deve ser rápido e eficaz, permitindo uma adaptação fácil ao sistema.
-
-🔗 [Repositório InfinityWare](https://github.com/4-SEMESTRE)  
-🔗 [Repositório SmartCall](https://github.com/4-SEMESTRE/Smartcall)  
+| Rank | Prioridade | User Story | Story Points | Sprint | Requisito do Cliente | Status |
+| :--: | :--------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------: | :----: | :------------------: | :----: |
+| 1 | Alta | Como usuário (técnico/admin), eu quero funcionalidades para criação, visualização e fechamento de chamados, para que eu possa gerenciar o ciclo de vida de uma solicitação. | ... | ... | R1.1 | ⬜ |
+| 2 | Alta | Como administrador, eu quero um sistema de atribuição (automática ou manual) de técnicos e funcionários, para que cada chamado seja direcionado ao responsável correto. | ... | ... | R1.1 | ⬜ |
+| 3 | Alta | Como usuário (funcionário ou técnico), eu quero poder anexar arquivos (prints, logs, documentos) aos chamados, para que eu possa fornecer contexto e facilitar a resolução. | ... | ... | R1.1 | ⬜ |
+| 4 | Alta | Como técnico ou administrador, eu quero uma interface de fácil navegação, para que eu possa visualizar rapidamente os chamados pendentes e concluídos. | ... | ... | R1.1 | ⬜ |
+| 5 | Alta | Como sistema, eu quero um modelo de IA para classificar chamados automaticamente, para que as solicitações sejam categorizadas sem intervenção manual. | ... | ... | R1.2 | ⬜ |
+| 6 | Alta | Como sistema, eu quero sugerir soluções com base em chamados anteriores, para que os usuários (técnicos/funcionários) possam resolver problemas comuns mais rapidamente. | ... | ... | R1.2 | ⬜ |
+| 7 | Alta | Como sistema, eu quero encaminhar chamados automaticamente ao técnico mais adequado, para que a resolução seja feita pelo especialista na área. | ... | ... | R1.2 | ⬜ |
+| 8 | Média | Como administrador, eu quero gerenciar permissões baseadas em papéis (funcionário, técnico, admin), para que eu possa controlar o que cada tipo de usuário pode fazer. | ... | ... | R1.3 | ⬜ |
+| 9 | Média | Como sistema, eu quero registrar um log detalhado de todas as ações, para que os administradores possam realizar auditorias de segurança. | ... | ... | R1.3 | ⬜ |
+| 10 | Média | Como administrador, eu quero poder gerenciar os acessos de outros usuários, para que eu possa conceder ou revogar permissões conforme a necessidade. | ... | ... | R1.3 | ⬜ |
+| 11 | Média | Como sistema, eu quero armazenar um histórico completo de todos os chamados, para que eles possam ser consultados futuramente. | ... | ... | R1.4 | ⬜ |
+| 12 | Média | Como usuário, eu quero funcionalidades de busca avançada e filtragem (por status, categoria, técnico), para que eu possa encontrar chamados específicos facilmente. | ... | ... | R1.4 | ⬜ |
+| 13 | Média | Como administrador, eu quero gerar relatórios sobre métricas de atendimento, para que eu possa analisar o desempenho da equipe de suporte. | ... | ... | R1.4 | ⬜ |
+| 14 | Alta | Como usuário, eu quero acessar o sistema através de um login seguro com senha forte, para que minha conta e meus dados fiquem protegidos. | ... | ... | R2.1 | ⬜ |
+| 15 | Alta | Como sistema, eu quero controlar as permissões de acesso, para que os usuários só possam visualizar e editar os chamados para os quais têm autorização. | ... | ... | R2.1 | ⬜ |
+| 16 | Alta | Como sistema, eu quero criptografar dados sensíveis no banco de dados, para que informações pessoais e de suporte fiquem seguras contra acessos não autorizados. | ... | ... | R2.1 | ⬜ |
+| 17 | Alta | Como usuário, eu quero que o sistema processe chamados e respostas da IA em menos de 2 segundos, para que eu tenha uma experiência de uso ágil e sem longas esperas. | ... | ... | R2.2 | ⬜ |
+| 18 | Alta | Como sistema, eu quero ter escalabilidade automática, para que a aplicação não trave em picos de uso e mantenha alta disponibilidade. | ... | ... | R2.2 | ⬜ |
+| 19 | Média | Como usuário, eu quero uma interface intuitiva e responsiva, para que eu possa usar o sistema facilmente tanto no desktop quanto em dispositivos móveis. | ... | ... | R2.3 | ⬜ |
+| 20 | Média | Como usuário, eu quero receber notificações (e-mail ou pop-up), para que eu seja informado sobre atualizações importantes nos meus chamados. | ... | ... | R2.3 | ⬜ |
+| 21 | Média | Como um novo usuário, eu quero um processo de onboarding simples (tutoriais e dicas), para que eu possa aprender a usar o sistema rapidamente. | ... | ... | R2.3 | ⬜ |
